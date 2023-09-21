@@ -45,7 +45,7 @@ module.exports = {
         nav: [{ text: "指南", link: "/article/", ariaLabel: "指南" }],
         sidebar: {
           "/article/":[
-            "老师",
+            "teacher",
           ]
         },
       },
