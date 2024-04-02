@@ -7,14 +7,13 @@ Must read for new teacher  / Teaching logistics reminder:
  
 ### Zoom Class Login:
    - Check Zoom Login as soon as you receive the class information in email. If you are prompted for zoom verification code, contact Mike or Daniel.
-   - Once logged in Zoom as the host, make sure you start the **Personal Meeting Room** - VERY IMPORANT, do not randomly create a meeting room. Otherwise the student will see message “Waiting for the host to start this meeting” and wait for it while you are in another meeting room. Check instruction for how to start Personal Meeting Room: 
-https://discord.com/channels/753776047182577745/857406535243792384/936005014567153675
-   - Must submit class attendance at the start of class:  https://discord.com/channels/753776047182577745/857406535243792384/936005375600238612
+   - Once logged in Zoom as the host, make sure you start the **Personal Meeting Room** - VERY IMPORANT, do not randomly create a meeting room. Otherwise the student will see message “Waiting for the host to start this meeting” and wait for it while you are in another meeting room. Check instruction for how to start Personal Meeting Room: [https://discord.com/channels/753776047182577745/857406535243792384/936005014567153675](https://discord.com/channels/753776047182577745/857406535243792384/936005014567153675)
+   - Must submit class attendance at the start of class:  [https://discord.com/channels/753776047182577745/857406535243792384/936005375600238612](https://discord.com/channels/753776047182577745/857406535243792384/936005375600238612)
    - Must write and send out class report for every student after the class is finished, including for absent student.
 
  
 ### Teacher pay questions:  
-https://discord.com/channels/753776047182577745/857406535243792384/899671475781500978
+[https://discord.com/channels/753776047182577745/857406535243792384/899671475781500978](https://discord.com/channels/753776047182577745/857406535243792384/899671475781500978)
 
  
 ### Student no-show: 
@@ -25,14 +24,14 @@ the student may miss the class for missing the notification email. Here is the p
    - 3. If after you end the Zoom meeting the student shows up or messages asking for the class, restart the class if you can. If you are not able to, reply back to explain the rule of 10 minutes no-show, and that a make-up class will be added to the session later (you need to submit a class change request).
  
 ### Get to know your students in advance:
-   - 1) before the first class, check student’s past class records at https://https://thinkland.ai/myclass/), 
+   - 1) before the first class, check student’s past class records at [https://https://thinkland.ai/myclass/](https://https://thinkland.ai/myclass/)), 
    - 2) spend time to check the student’s level in the first class, such as conducting a test.
 
 ### Please read, our 100% Satisfaction Guarantee for student/parent : 
-https://school.thinkland.ai/100
+[https://school.thinkland.ai/100](https://school.thinkland.ai/100)
 
 ### How to make class change request: 
-   - Go to https://thinkland.ai/myclass/
+   - Go to [https://thinkland.ai/myclass/](https://thinkland.ai/myclass/)
    - Enter your name or email to see the class that you are teaching now, (click "all class" will show all the classes you have taught)
    - Find the class you want to make change, click "Class change request link"
 
